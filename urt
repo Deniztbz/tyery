@@ -1,0 +1,2 @@
+2- git clone https://github.com/ObolNetwork/charon-distributed-validator-node.git 
+6- docker run --rm -v "$(pwd):/opt/charon" 
